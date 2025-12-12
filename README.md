@@ -5,7 +5,7 @@ This repository contains the complete Firebase backend configuration for the **M
 
 ## 🛠️ Implementation Details
 Successfully implemented the required backend infrastructure:
-*   **Cloud Firestore Database:** Configured with a dedicated collection (`MojadoKitchenUtensils_Logs`) for structured data logging.
+*   **Cloud Firestore Database:** Configured with a dedicated collection (`Mojado_KitchenUtensils_Logs`) for structured data logging.
 *   **Data Model:** Created documents with fields for `Accuracy` (Number), `ClassType` (String), and `Time` (Timestamp).
 *   **Realtime Database:** Established a separate Realtime Database instance for potential real-time features.
 *   **Security Rules:** Configured initial security rules for both databases in test mode for development.
@@ -13,8 +13,8 @@ Successfully implemented the required backend infrastructure:
 ## 📸 Setup Documentation
 
 ### 1. Cloud Firestore Database
-This screenshot shows the created `MojadoKitchenUtensils_Logs` collection with the initial document containing the required fields.
-![Firestore Database Interface](mojado1.png)
+This screenshot shows the created `Mojado_KitchenUtensils_Logs` collection with the initial document containing the required fields.
+![Firestore Database Interface](mojado1.jpg)
 
 ### 2. Cloud Firestore Security Rules
 Initial security rules configured for the development phase.
