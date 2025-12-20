@@ -26,7 +26,7 @@ The Realtime Database console showing the successfully initialized database stru
 
 ### 4. Realtime Database Security Rules
 Security rules for the Realtime Database, set with an expiration date for development access.
-![Realtime Database Rules](mojado4.png)
+![Realtime Database Rules](RealTime_Rules.png)
 
 ## 🚀 Next Steps
 This setup provides a solid foundation. The next phase can involve:
