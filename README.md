@@ -14,7 +14,7 @@ Successfully implemented the required backend infrastructure:
 
 ### 1. Cloud Firestore Database
 This screenshot shows the created `Mojado_KitchenUtensils_Logs` collection with the initial document containing the required fields.
-![Firestore Database Interface](mojado1.png)
+![Firestore Database Interface](Firebase.png)
 
 ### 2. Cloud Firestore Security Rules
 Initial security rules configured for the development phase.
